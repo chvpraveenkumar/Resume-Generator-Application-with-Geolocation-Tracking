@@ -95,7 +95,7 @@ git commit -m "Added new feature"
 4️⃣ Push to GitHub & create a Pull Request.
 
 📞 Contact
-✉️ Your Name - Vivek Emmadi
-📌 GitHub: https://github.com/vivekemmadi
-📌 LinkedIn: https://www.linkedin.com/in/viveke3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+✉️ Your Name - Chunduri Venkata Praveen Kumar
+📌 GitHub: https://github.com/chvpraveenkumar
+📌 LinkedIn: https://www.linkedin.com/in/chunduri-venkata-praveen-kumar-858880241
 
